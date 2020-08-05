@@ -1,0 +1,2 @@
+# ignore files from docker image
+/node_modules
